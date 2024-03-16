@@ -1,6 +1,6 @@
 ## Proyecto Bank Marketing
 
-### Descripcion del proyecto y origen del dataset
+### Descripción del proyecto y origen del dataset
 
 Los datos estan relacionados a campañas de marketing directo de una institución bancaria de Portugal.
 
