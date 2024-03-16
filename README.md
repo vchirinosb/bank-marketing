@@ -1,22 +1,22 @@
-## Proyecto Bank Marketing
+## Project: Bank Marketing
 
-### Descripción del proyecto y origen del dataset
+### Project description and dataset origin
 
-Los datos estan relacionados a campañas de marketing directo de una institución bancaria de Portugal.
+The data is related to direct marketing campaigns of a banking institution in Portugal.
 
-Las campañas de marketing son basadas en llamadas telefónicas. Usualmente, mas de una comunicación fue realizada para lograr que el producto (depósito a plazo fijo) sea suscrito por el cliente.
+The marketing campaigns are based on phone calls. Usually, more than one communication was made to get the product (time deposit) to be subscribed by the customer.
 
-El dataset tiene el nombre bank-full.csv y esta ordenado por fecha (de mayo del 2008 a noviembre del 2010).
+The dataset has the name bank-full.csv and is sorted by date (from May 2008 to November 2010).
 
-El objetivo de la clasificación es predecir si el cliente se suscribirá a un deposito de plazo fijo.
+The purpose of the sorting is to predict whether the customer will subscribe to a fixed-term deposit.
 
-La cantidad de filas es 45,211 y la cantidad de variables son 16 mas 1 variable de salida.
+The number of rows is 45,211 and the number of variables is 16 plus 1 output variable.
 
-El dataset a utilizar se encontró en la plataforma UCI Machine Learning Repository.
+The dataset to be used was found in the UCI Machine Learning Repository platform.
 
-Ruta del data set: https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
+Path of the data set: https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
 
-Archivo: BankMarketing.ipynb
+File: BankMarketing.ipynb
 
 Dataset: bank-full.csv
 
