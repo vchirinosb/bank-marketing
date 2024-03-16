@@ -24,4 +24,8 @@ Python Libraries: pandas, numpy, seaborn, matplotlib, sklearn.
 
 Techniques applied: Support Vector Classifier, KNeighbors Classifier, Gaussian Naive Bayes, Decision Tree Classifier, MLP Classifier.
 
+### Disclaimer:
+- For educational purposes only. Not intended for commercial use.
+- Test data only. Does not contain real data.
+
 Last Update: 11.2022
