@@ -17,4 +17,5 @@ El dataset a utilizar se encontró en la plataforma UCI Machine Learning Reposit
 Ruta del data set: https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
 
 Archivo: BankMarketing.ipynb
+
 Dataset: bank-full.csv
