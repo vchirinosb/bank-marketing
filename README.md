@@ -20,4 +20,8 @@ File: BankMarketing.ipynb
 
 Dataset: bank-full.csv
 
+Python Libraries: pandas, numpy, seaborn, matplotlib, sklearn.
+
+Techniques applied: Support Vector Classifier, KNeighbors Classifier, Gaussian Naive Bayes, Decision Tree Classifier, MLP Classifier.
+
 Last Update: 11.2022
